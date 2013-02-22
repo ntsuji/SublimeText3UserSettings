@@ -12,7 +12,7 @@
 	// "font_size": 12,
 
 	// Common Settings
-	"color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
+	"color_scheme": "Packages/Solarized Color Scheme/Solarized (light).tmTheme",
 	"draw_white_space": "all",
 	"highlight_line": true,
 	"ignored_packages":
@@ -24,5 +24,6 @@
 		80,
 		120
 	],
+	"theme": "Soda Light.sublime-theme",
 	"word_wrap": true
 }
