@@ -1,15 +1,11 @@
 {
 	"installed_packages":
 	[
-		"BracketHighlighter",
 		"ConvertToUTF8",
-		"DetectSyntax",
 		"IMESupport",
 		"INI",
 		"Package Control",
-		"Print to HTML",
 		"Solarized Color Scheme",
-		"SublimeLinter",
 		"Theme - Soda",
 		"TrailingSpaces",
 		"VBScript"
