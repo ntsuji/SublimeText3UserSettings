@@ -1,13 +1,13 @@
 {
 	"installed_packages":
 	[
+		"ApplySyntax",
 		"BracketHighlighter",
 		"ConvertToUTF8",
 		"IMESupport",
 		"INI",
 		"Package Control",
 		"Solarized Color Scheme",
-		"sublime-detect-syntax",
 		"SublimeLinter",
 		"Theme - Soda",
 		"TrailingSpaces",
@@ -15,8 +15,8 @@
 	],
 	"repositories":
 	[
+		"https://github.com/facelessuser/ApplySyntax/tree/ST3",
 		"https://github.com/facelessuser/BracketHighlighter/tree/BH2ST3",
-		"https://github.com/gevans/sublime-detect-syntax/tree/sublime-3",
 		"https://github.com/SublimeLinter/SublimeLinter/tree/sublime-text-3"
 	]
 }
