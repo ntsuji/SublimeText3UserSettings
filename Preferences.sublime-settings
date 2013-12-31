@@ -15,10 +15,6 @@
 	"color_scheme": "Packages/Solarized Color Scheme/Solarized (light).tmTheme",
 	"draw_white_space": "all",
 	"highlight_line": true,
-	"ignored_packages":
-	[
-		"Vintage"
-	],
 	"rulers":
 	[
 		80,
