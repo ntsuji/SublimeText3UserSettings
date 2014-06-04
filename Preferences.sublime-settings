@@ -12,9 +12,10 @@
 	// "font_size": 12,
 
 	// Common Settings
-	"color_scheme": "Packages/Solarized Color Scheme/Solarized (light).tmTheme",
+	"color_scheme": "Packages/Colorcoder/Solarized (light) (Colorcode).tmTheme",
 	"draw_white_space": "all",
 	"highlight_line": true,
+	"original_color_scheme": "Packages/Solarized Color Scheme/Solarized (light).tmTheme",
 	"rulers":
 	[
 		80,
