@@ -2,14 +2,20 @@
 	// For MBP13 Retina
 	// "font_face": "Menlo Regular",
 	// "font_size": 12,
+	// "gpu_window_buffer": true,
+
 
 	// For Windows PC at office
 	// "font_face": "Consolas",
+	// "font_size": 12,
 	// "font_options":
 	// [
 	// 	"directwrite"
 	// ],
-	// "font_size": 12,
+	// "theme_font_options":
+	// [
+	// 	"directwrite"
+	// ],
 
 	// Common Settings
 	"color_scheme": "Packages/Solarized Color Scheme/Solarized (light).tmTheme",

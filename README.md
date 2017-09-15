@@ -3,13 +3,10 @@
 ## Install
 
 ### Install Sublime Text 3
-* [Beta](http://www.sublimetext.com/3)
-* [Dev](http://www.sublimetext.com/3dev)
+* [Stable](https://www.sublimetext.com/3)
+* [Dev](https://www.sublimetext.com/3dev)
 
-### Install [Package Control](http://wbond.net/sublime_packages/package_control/installation#ST3)
-
-### Install [Node.js](http://nodejs.org/download/)
-For [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter).
+### Install [Package Control](https://packagecontrol.io/installation#st3)
 
 ### Git Clone `SublimeText3UserSettings`
 
