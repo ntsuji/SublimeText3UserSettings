@@ -16,17 +16,17 @@
   Run `cmd.exe` as Administrator
 
   ```
-> cd PATH\TO\PACKAGES
-> rd /s /q User
-> mklink /d User PATH\TO\SublimeText3UserSettings
+  > cd PATH\TO\PACKAGES
+  > rd /s /q User
+  > mklink /d User PATH\TO\SublimeText3UserSettings
   ```
 
 * Mac/Linux
 
   ```
-$ cd PATH/TO/PACKAGES
-$ rm -rf User
-$ ln -s PATH/TO/SublimeText3UserSettings User
+  $ cd PATH/TO/PACKAGES
+  $ rm -rf User
+  $ ln -s PATH/TO/SublimeText3UserSettings User
   ```
 
 ### Edit `Preferences.sublime-settings`
